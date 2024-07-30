@@ -40,14 +40,13 @@ See also the list of Contributors
 who participated in this project.
 
 - **Ike Asamoah-Ansah** - [Ike](https://github.com/ikeasamoahansah/)
-- **Etor Peniel** - [Etor](https://github.com/ikeasamoahansah/)
+- **Etor Peniel** - [Etor](https://github.com/peniel101)
 
  
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md)
-MIT License - see the [LICENSE.md](LICENSE.md) file for
-details
+- This project is licensed under the [MIT License](LICENSE.md)
+- MIT License - see the [LICENSE.md](LICENSE.md) file for details
  
 ## Acknowledgments
 
