@@ -1,7 +1,10 @@
                  
 # Univeral Document Understanding Model
 
-A document understanding model which takes various files as inputs and gives a summary based on pages.
+A document understanding model which takes various files and a question as inputs and gives a summary based on question and selected pages.
+
+![image](https://github.com/user-attachments/assets/1cdda117-4fcd-4b35-9a8b-295af4ea2e39)
+
  
 ## Getting Started
 
