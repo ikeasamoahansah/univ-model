@@ -1,5 +1,5 @@
                  
-# Univeral Document Understanding Model
+# Univeral Document Understanding Model - (Team - Data Nerds)
 
 A document understanding model which takes various files and a question as inputs and gives a summary based on question and selected pages.
 
