@@ -26,7 +26,7 @@ Training was done with [Kaggle](https://www.kaggle.com)
 Dataset and Model used
 All availale on HuggingFace
 
-- [HuggingFaceM4/DocumentVQA]([https://www.contributor-covenant.org/](https://huggingface.co/datasets/HuggingFaceM4/DocumentVQA))
+- [HuggingFaceM4/DocumentVQA][https://www.contributor-covenant.org/](https://huggingface.co/datasets/HuggingFaceM4/DocumentVQA)
 - [impira/layoutlm-document-qa](https://huggingface.co/impira/layoutlm-document-qa)
 
  
