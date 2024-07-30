@@ -32,9 +32,7 @@ All availale on HuggingFace
  
 ## Authors
 
-See also the list of
-[Ike](https://github.com/ikeasamoahansah/)
-[Etor](https://github.com/ikeasamoahansah/)
+See also the list of Contributors
 
 who participated in this project.
 
