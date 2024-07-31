@@ -1,5 +1,5 @@
                  
-# Univeral Document Understanding Model - (Team - Data Nerds)
+# Univeral Document Understanding Model: (Team - Data Nerds)
 
 A document understanding model which takes various files and a question as inputs and gives a summary based on question and selected pages.
 
@@ -29,8 +29,9 @@ Training was done with [Kaggle](https://www.kaggle.com)
 Dataset and Model used
 All availale on HuggingFace
 
-- [HuggingFaceM4/DocumentVQA](https://huggingface.co/datasets/HuggingFaceM4/DocumentVQA)
-- [impira/layoutlm-document-qa](https://huggingface.co/impira/layoutlm-document-qa)
+- [Dataset](https://huggingface.co/datasets/nielsr/docvqa_1200_examples_donut)
+- [Model](https://huggingface.co/naver-clova-ix/donut-base)
+- [FineTuned](https://huggingface.co/pacman2223/univ-docu-model-v3)
 
  
 ## Authors
@@ -45,9 +46,9 @@ who participated in this project.
  
 ## License
 
-- This project is licensed under the [MIT License](LICENSE.md)
-- MIT License - see the [LICENSE.md](LICENSE.md) file for details
+- This project is licensed under the [MIT License](LICENSE)
+- MIT License - see the [LICENSE.md](LICENSE) file for details
  
 ## Acknowledgments
 
-- Impra LayoutLM on Huggingface
+- Donut Base model on Huggingface
