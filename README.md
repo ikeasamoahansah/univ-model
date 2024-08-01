@@ -16,8 +16,6 @@ for notes on deploying the project on a live system.
 
 Understanding of [Transformers](https://huggingface.co/docs/transformers/)
 
-
-
 ### Installing
 
 ```pip install -q transformers datasets```
@@ -25,7 +23,7 @@ Understanding of [Transformers](https://huggingface.co/docs/transformers/)
 ## Reproducible Steps
 
 - Run the model in sequential order
-- Visit [Huggingface](https://www.haggingface.co/) to generate a token
+- Visit [Huggingface](https://www.huggingface.co/) to generate a token
 - Visit [Wandb](https://www.wandb.ai/) to get an api key for visualization of CPU, GPU usage
 - Train and deploy to huggingface
 - Voila
