@@ -5,6 +5,7 @@ A document understanding model which takes various files and a question as input
 
 ![image](https://github.com/user-attachments/assets/1cdda117-4fcd-4b35-9a8b-295af4ea2e39)
 
+<h4 text-align="center">[LIVE DEMO](https://huggingface.co/spaces/pacman2223/docu-model-v3-space)</h4> 
  
 ## Getting Started
 
