@@ -48,7 +48,7 @@ See also the list of Contributors
 who participated in this project.
 
 - **Ike Asamoah-Ansah** - [Ike](https://github.com/ikeasamoahansah/)
-- **Etor Peniel** - [Etor](https://github.com/peniel101)
+- **Etor Peniel** - [Etor](https://github.com/peniel18)
 
  
 ## License
